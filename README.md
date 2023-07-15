@@ -8,4 +8,4 @@ Java Tetris is a project aimed at creating a classic Tetris game using the Java 
 - Different levels of difficulty.
 - Score tracking and high score system.
 - Sound effects and visual effects.
-- Pause and resume functionality.
+
